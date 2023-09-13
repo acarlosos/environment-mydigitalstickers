@@ -21,5 +21,6 @@ Em seguida vamos clonar o projeto app-mydigitalstickers na pasta www
     $ git clone git@acarlosos/app-mydigitalstickers .
 
 Hora de levantar os containers:
+
     $ cd ..
-    $ docker-compose up -d --build
+    $  docker-compose up -d --build
